@@ -1,0 +1,528 @@
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T13:05:31.650Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T13:05:31.658Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T13:05:31.661Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T13:05:31.666Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T13:05:31.667Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T13:05:31.667Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T13:07:01.553Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T13:07:01.565Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T13:07:01.569Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T13:07:01.574Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T13:07:01.574Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T13:07:01.574Z"}
+{"email":"admin18@example.com","level":"info","message":"Signup request received","timestamp":"2025-05-07T13:07:28.388Z"}
+{"email":"admin18@example.com","level":"info","message":"User signed up successfully","timestamp":"2025-05-07T13:07:28.516Z","userId":"681b5b1047802468e7e6e812"}
+{"level":"info","message":"Notification created for user 681b5b1047802468e7e6e812 - Type: system, Title: Welcome to Online Bookstore","timestamp":"2025-05-07T13:07:30.469Z"}
+{"level":"info","message":"Notification created for 4 recipients - Type: system, Title: New User Registration","timestamp":"2025-05-07T13:07:30.488Z"}
+{"level":"info","message":"::1 - - [07/May/2025:13:07:30 +0000] \"POST /user/signup HTTP/1.1\" 201 512 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T13:07:30.506Z"}
+{"email":"admin16@example.com","level":"info","message":"Sign-in attempt","timestamp":"2025-05-07T13:07:48.512Z"}
+{"level":"info","message":"User signed in successfully: admin16@example.com","timestamp":"2025-05-07T13:07:48.594Z"}
+{"level":"info","message":"::1 - - [07/May/2025:13:07:48 +0000] \"POST /user/signin HTTP/1.1\" 202 257 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T13:07:48.595Z"}
+{"level":"info","message":"::1 - - [07/May/2025:13:08:15 +0000] \"POST /courses/addCourse HTTP/1.1\" 404 70 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T13:08:15.546Z"}
+{"level":"info","message":"::1 - - [07/May/2025:13:08:40 +0000] \"POST /course/addCourse HTTP/1.1\" 403 40 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T13:08:40.435Z"}
+{"email":"admin1@example.com","level":"info","message":"Sign-in attempt","timestamp":"2025-05-07T13:15:04.348Z"}
+{"level":"warn","message":"Failed login attempt for email: admin1@example.com","timestamp":"2025-05-07T13:15:04.351Z"}
+{"level":"info","message":"::1 - - [07/May/2025:13:15:04 +0000] \"POST /user/signin HTTP/1.1\" 401 47 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T13:15:04.352Z"}
+{"email":"admin1@example.com","level":"info","message":"Sign-in attempt","timestamp":"2025-05-07T13:17:11.064Z"}
+{"level":"warn","message":"Failed login attempt for email: admin1@example.com","timestamp":"2025-05-07T13:17:11.066Z"}
+{"level":"info","message":"::1 - - [07/May/2025:13:17:11 +0000] \"POST /user/signin HTTP/1.1\" 401 47 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T13:17:11.068Z"}
+{"email":"admin1@example.com","level":"info","message":"Sign-in attempt","timestamp":"2025-05-07T13:18:06.393Z"}
+{"level":"warn","message":"Failed login attempt for email: admin1@example.com","timestamp":"2025-05-07T13:18:06.395Z"}
+{"level":"info","message":"::1 - - [07/May/2025:13:18:06 +0000] \"POST /user/signin HTTP/1.1\" 401 47 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T13:18:06.397Z"}
+{"email":"admin2@example.com","level":"info","message":"Sign-in attempt","timestamp":"2025-05-07T13:18:45.917Z"}
+{"level":"warn","message":"Failed login attempt for email: admin2@example.com","timestamp":"2025-05-07T13:18:45.919Z"}
+{"level":"info","message":"::1 - - [07/May/2025:13:18:45 +0000] \"POST /user/signin HTTP/1.1\" 401 47 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T13:18:45.920Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T13:20:41.140Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T13:20:41.156Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T13:20:41.160Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T13:20:41.164Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T13:20:41.164Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T13:20:41.165Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T13:20:44.481Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T13:20:44.496Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T13:20:44.503Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T13:20:44.511Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T13:20:44.511Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T13:20:44.512Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T13:20:46.225Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T13:20:46.237Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T13:20:46.245Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T13:20:46.251Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T13:20:46.252Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T13:20:46.253Z"}
+{"level":"info","message":"Default admin created: admin1@example.com","timestamp":"2025-05-07T13:23:59.387Z"}
+{"level":"info","message":"Default admin created: admin2@example.com","timestamp":"2025-05-07T13:23:59.469Z"}
+{"level":"info","message":"Default admin created: admin3@example.com","timestamp":"2025-05-07T13:23:59.543Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T13:23:59.546Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T13:23:59.546Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T13:23:59.547Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T13:24:01.915Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T13:24:01.928Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T13:24:01.932Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T13:24:01.937Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T13:24:01.937Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T13:24:01.938Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T13:24:03.580Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T13:24:03.592Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T13:24:03.596Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T13:24:03.600Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T13:24:03.600Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T13:24:03.601Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T13:24:06.850Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T13:24:06.859Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T13:24:06.864Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T13:24:06.868Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T13:24:06.868Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T13:24:06.869Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T13:24:09.426Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T13:24:09.439Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T13:24:09.443Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T13:24:09.448Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T13:24:09.448Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T13:24:09.448Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T13:24:14.114Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T13:24:14.126Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T13:24:14.131Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T13:24:14.135Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T13:24:14.135Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T13:24:14.136Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T13:24:26.381Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T13:24:26.394Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T13:24:26.398Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T13:24:26.402Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T13:24:26.403Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T13:24:26.403Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T13:24:31.324Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T13:24:31.334Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T13:24:31.338Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T13:24:31.343Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T13:24:31.343Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T13:24:31.343Z"}
+{"level":"info","message":"Default admin created: admin1@example.com","timestamp":"2025-05-07T13:25:05.613Z"}
+{"level":"info","message":"Default admin created: admin2@example.com","timestamp":"2025-05-07T13:25:05.692Z"}
+{"level":"info","message":"Default admin created: admin3@example.com","timestamp":"2025-05-07T13:25:05.765Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T13:25:05.767Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T13:25:05.768Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T13:25:05.768Z"}
+{"email":"admin1@example.com","level":"info","message":"Sign-in attempt","timestamp":"2025-05-07T13:26:01.294Z"}
+{"level":"info","message":"User signed in successfully: admin1@example.com","timestamp":"2025-05-07T13:26:01.383Z"}
+{"level":"info","message":"::1 - - [07/May/2025:13:26:01 +0000] \"POST /user/signin HTTP/1.1\" 202 255 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T13:26:01.389Z"}
+{"level":"info","message":"::1 - - [07/May/2025:13:26:26 +0000] \"POST /course/addCourse HTTP/1.1\" 400 43 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T13:26:26.178Z"}
+{"level":"info","message":"::1 - - [07/May/2025:13:32:52 +0000] \"POST /course/addCourse HTTP/1.1\" 500 31 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T13:32:52.330Z"}
+{"level":"info","message":"::1 - - [07/May/2025:13:33:09 +0000] \"POST /course/addCourse HTTP/1.1\" 500 31 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T13:33:09.172Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T13:33:56.239Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T13:33:56.251Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T13:33:56.263Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T13:33:56.267Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T13:33:56.267Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T13:33:56.267Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T13:34:00.376Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T13:34:00.389Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T13:34:00.394Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T13:34:00.397Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T13:34:00.398Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T13:34:00.398Z"}
+{"level":"info","message":"::1 - - [07/May/2025:13:34:05 +0000] \"POST /course/addCourse HTTP/1.1\" 500 31 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T13:34:05.818Z"}
+{"level":"info","message":"::1 - - [07/May/2025:13:34:56 +0000] \"POST /course/addCourse HTTP/1.1\" 500 31 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T13:34:56.154Z"}
+{"level":"info","message":"::1 - - [07/May/2025:13:35:21 +0000] \"POST /course/addCourse HTTP/1.1\" 500 31 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T13:35:21.302Z"}
+{"level":"info","message":"::1 - - [07/May/2025:13:36:52 +0000] \"POST /course/addCourse HTTP/1.1\" 500 31 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T13:36:52.617Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T13:38:44.622Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T13:38:44.635Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T13:38:44.640Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T13:38:44.644Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T13:38:44.644Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T13:38:44.645Z"}
+{"level":"info","message":"::1 - - [07/May/2025:13:38:48 +0000] \"POST /course/addCourse HTTP/1.1\" 500 31 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T13:38:48.796Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T13:52:52.365Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T13:52:52.377Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T13:52:52.381Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T13:52:52.385Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T13:52:52.386Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T13:52:52.386Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T13:53:58.491Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T13:53:58.501Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T13:53:58.506Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T13:53:58.510Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T13:53:58.511Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T13:53:58.511Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T13:54:00.264Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T13:54:00.277Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T13:54:00.281Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T13:54:00.285Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T13:54:00.285Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T13:54:00.286Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T13:54:02.783Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T13:54:02.795Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T13:54:02.799Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T13:54:02.803Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T13:54:02.804Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T13:54:02.804Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T13:54:05.065Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T13:54:05.077Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T13:54:05.080Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T13:54:05.085Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T13:54:05.085Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T13:54:05.086Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T13:54:08.408Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T13:54:08.422Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T13:54:08.426Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T13:54:08.429Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T13:54:08.430Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T13:54:08.430Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T13:54:11.390Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T13:54:11.399Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T13:54:11.403Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T13:54:11.408Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T13:54:11.408Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T13:54:11.408Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T14:07:51.216Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T14:07:51.228Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T14:07:51.232Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T14:07:51.236Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T14:07:51.237Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T14:07:51.237Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T14:07:54.710Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T14:07:54.722Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T14:07:54.726Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T14:07:54.730Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T14:07:54.730Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T14:07:54.730Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T14:08:16.706Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T14:08:16.716Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T14:08:16.721Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T14:08:16.726Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T14:08:16.727Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T14:08:16.727Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T14:08:43.561Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T14:08:43.579Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T14:08:43.584Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T14:08:43.590Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T14:08:43.590Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T14:08:43.591Z"}
+{"level":"info","message":"::1 - - [07/May/2025:14:13:55 +0000] \"POST /course/addCourse HTTP/1.1\" 500 31 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T14:13:55.300Z"}
+{"level":"info","message":"::1 - - [07/May/2025:14:14:33 +0000] \"POST /course/addCourse HTTP/1.1\" 500 31 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T14:14:33.769Z"}
+{"level":"info","message":"::1 - - [07/May/2025:14:15:46 +0000] \"POST /course/addCourse HTTP/1.1\" 500 31 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T14:15:46.950Z"}
+{"level":"error","message":"Error creating course: Courses validation failed: instructor: Cast to ObjectId failed for value \"5126516516516541651\" (type string) at path \"instructor\" because of \"BSONError\"","timestamp":"2025-05-07T14:16:50.393Z"}
+{"level":"info","message":"::1 - - [07/May/2025:14:16:50 +0000] \"POST /course/addCourse HTTP/1.1\" 400 186 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T14:16:50.395Z"}
+{"level":"info","message":"Course created successfully","timestamp":"2025-05-07T14:18:38.008Z"}
+{"level":"error","message":"Error creating course: Validation failed: \"itemModel\" must be one of [Order, courses, User, Review]","timestamp":"2025-05-07T14:18:38.018Z"}
+{"level":"info","message":"::1 - - [07/May/2025:14:18:38 +0000] \"POST /course/addCourse HTTP/1.1\" 400 106 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T14:18:38.020Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T14:20:05.756Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T14:20:05.769Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T14:20:05.773Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T14:20:05.778Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T14:20:05.778Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T14:20:05.778Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T14:20:15.694Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T14:20:15.706Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T14:20:15.710Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T14:20:15.714Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T14:20:15.715Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T14:20:15.715Z"}
+{"level":"info","message":"Course created successfully","timestamp":"2025-05-07T14:20:20.798Z"}
+{"level":"error","message":"Error creating course: Notification validation failed: itemModel: `courses` is not a valid enum value for path `itemModel`.","timestamp":"2025-05-07T14:20:20.824Z"}
+{"level":"info","message":"::1 - - [07/May/2025:14:20:20 +0000] \"POST /course/addCourse HTTP/1.1\" 400 128 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T14:20:20.829Z"}
+{"level":"info","message":"Course created successfully","timestamp":"2025-05-07T14:20:43.697Z"}
+{"level":"error","message":"Error creating course: Notification validation failed: itemModel: `courses` is not a valid enum value for path `itemModel`.","timestamp":"2025-05-07T14:20:43.705Z"}
+{"level":"info","message":"::1 - - [07/May/2025:14:20:43 +0000] \"POST /course/addCourse HTTP/1.1\" 400 128 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T14:20:43.707Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T14:23:08.277Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T14:23:08.304Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T14:23:08.312Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T14:23:08.321Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T14:23:08.322Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T14:23:08.324Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T14:23:20.997Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T14:23:21.009Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T14:23:21.013Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T14:23:21.017Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T14:23:21.018Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T14:23:21.018Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T14:23:30.372Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T14:23:30.382Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T14:23:30.386Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T14:23:30.390Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T14:23:30.390Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T14:23:30.391Z"}
+{"level":"info","message":"Course created successfully","timestamp":"2025-05-07T14:23:34.041Z"}
+{"level":"info","message":"Notification created for 3 recipients - Type: system, Title: New Course Added","timestamp":"2025-05-07T14:23:34.053Z"}
+{"level":"info","message":"Notification sent to 3 users about new Course","timestamp":"2025-05-07T14:23:34.065Z"}
+{"level":"info","message":"::1 - - [07/May/2025:14:23:34 +0000] \"POST /course/addCourse HTTP/1.1\" 201 727 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T14:23:34.069Z"}
+{"level":"info","message":"Course created successfully","timestamp":"2025-05-07T14:24:30.444Z"}
+{"level":"info","message":"Notification created for 3 recipients - Type: system, Title: New Course Added","timestamp":"2025-05-07T14:24:30.456Z"}
+{"level":"info","message":"Notification sent to 3 users about new Course","timestamp":"2025-05-07T14:24:30.463Z"}
+{"level":"info","message":"::1 - - [07/May/2025:14:24:30 +0000] \"POST /course/addCourse HTTP/1.1\" 201 727 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T14:24:30.464Z"}
+{"level":"info","message":"::1 - - [07/May/2025:14:26:43 +0000] \"POST /courses HTTP/1.1\" 404 60 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T14:26:43.843Z"}
+{"level":"info","message":"::1 - - [07/May/2025:14:26:50 +0000] \"GET /courses HTTP/1.1\" 404 59 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T14:26:50.444Z"}
+{"level":"info","message":"::1 - - [07/May/2025:14:26:58 +0000] \"GET /course HTTP/1.1\" 404 58 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T14:26:58.130Z"}
+{"level":"info","message":"Fetching all courses","timestamp":"2025-05-07T14:27:51.601Z"}
+{"level":"info","message":"::1 - - [07/May/2025:14:27:51 +0000] \"GET /course/allCourse HTTP/1.1\" 200 3446 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T14:27:51.602Z"}
+{"level":"info","message":"Course created successfully","timestamp":"2025-05-07T14:28:52.701Z"}
+{"level":"info","message":"Notification created for 3 recipients - Type: system, Title: New Course Added","timestamp":"2025-05-07T14:28:52.711Z"}
+{"level":"info","message":"Notification sent to 3 users about new Course","timestamp":"2025-05-07T14:28:52.718Z"}
+{"level":"info","message":"::1 - - [07/May/2025:14:28:52 +0000] \"POST /course/addCourse HTTP/1.1\" 201 727 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T14:28:52.721Z"}
+{"level":"info","message":"::1 - - [07/May/2025:14:29:33 +0000] \"POST /course/addCourse HTTP/1.1\" 400 43 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T14:29:33.618Z"}
+{"level":"info","message":"::1 - - [07/May/2025:14:29:45 +0000] \"POST /course/addCourse HTTP/1.1\" 500 54 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T14:29:45.770Z"}
+{"level":"info","message":"Course created successfully","timestamp":"2025-05-07T14:30:03.570Z"}
+{"level":"info","message":"Notification created for 3 recipients - Type: system, Title: New Course Added","timestamp":"2025-05-07T14:30:03.577Z"}
+{"level":"info","message":"Notification sent to 3 users about new Course","timestamp":"2025-05-07T14:30:03.583Z"}
+{"level":"info","message":"::1 - - [07/May/2025:14:30:03 +0000] \"POST /course/addCourse HTTP/1.1\" 201 727 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T14:30:03.584Z"}
+{"level":"info","message":"Fetching all courses","timestamp":"2025-05-07T14:31:28.868Z"}
+{"level":"info","message":"::1 - - [07/May/2025:14:31:28 +0000] \"GET /course/allCourse HTTP/1.1\" 200 730 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T14:31:28.870Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T16:24:32.992Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T16:24:33.001Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T16:24:33.005Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T16:24:33.010Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T16:24:33.011Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T16:24:33.011Z"}
+{"level":"info","message":"::1 - - [07/May/2025:16:26:48 +0000] \"GET /course/681b6e6b94ea7a5cdd6f5e99 HTTP/1.1\" 500 144 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T16:26:48.232Z"}
+{"level":"info","message":"Fetching all courses","timestamp":"2025-05-07T16:26:57.648Z"}
+{"level":"info","message":"::1 - - [07/May/2025:16:26:57 +0000] \"GET /course/allCourse HTTP/1.1\" 200 730 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T16:26:57.650Z"}
+{"level":"info","message":"::1 - - [07/May/2025:16:27:07 +0000] \"POST /course/7 HTTP/1.1\" 404 61 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T16:27:07.355Z"}
+{"level":"info","message":"::1 - - [07/May/2025:16:27:13 +0000] \"GET /course/7 HTTP/1.1\" 401 32 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T16:27:13.966Z"}
+{"level":"info","message":"::1 - - [07/May/2025:16:27:42 +0000] \"GET /course/7 HTTP/1.1\" 200 687 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T16:27:42.564Z"}
+{"level":"info","message":"::1 - - [07/May/2025:16:28:03 +0000] \"GET /course/4 HTTP/1.1\" 404 44 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T16:28:03.212Z"}
+{"level":"info","message":"::1 - - [07/May/2025:16:29:50 +0000] \"GET /course/search HTTP/1.1\" 200 728 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T16:29:50.857Z"}
+{"level":"info","message":"::1 - - [07/May/2025:16:30:51 +0000] \"GET /course/search?search=javascript&limit=5&skip=0 HTTP/1.1\" 200 741 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T16:30:51.582Z"}
+{"level":"info","message":"::1 - - [07/May/2025:16:36:21 +0000] \"PATCH /course/7 HTTP/1.1\" 200 727 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T16:36:21.493Z"}
+{"level":"info","message":"::1 - - [07/May/2025:16:37:15 +0000] \"PATCH /course/7 HTTP/1.1\" 200 727 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T16:37:15.013Z"}
+{"level":"info","message":"::1 - - [07/May/2025:16:37:53 +0000] \"GET /course/allCourse HTTP/1.1\" 200 680 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T16:37:53.141Z"}
+{"level":"info","message":"::1 - - [07/May/2025:16:37:58 +0000] \"GET /course/allCourse HTTP/1.1\" 200 680 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T16:37:58.031Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T16:46:37.498Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T16:46:37.507Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T16:46:37.512Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T16:46:37.517Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T16:46:37.517Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T16:46:37.518Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T16:46:39.151Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T16:46:39.166Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T16:46:39.172Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T16:46:39.177Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T16:46:39.178Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T16:46:39.178Z"}
+{"level":"info","message":"::1 - - [07/May/2025:16:46:44 +0000] \"PATCH /course/7 HTTP/1.1\" 200 727 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T16:46:44.733Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T16:50:48.243Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T16:50:48.253Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T16:50:48.259Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T16:50:48.264Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T16:50:48.264Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T16:50:48.265Z"}
+{"level":"info","message":"Notification created for 3 recipients - Type: system, Title: Course Updated","timestamp":"2025-05-07T16:50:52.988Z"}
+{"level":"info","message":"::1 - - [07/May/2025:16:50:52 +0000] \"PATCH /course/7 HTTP/1.1\" 500 114 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T16:50:52.999Z"}
+{"level":"info","message":"::1 - - [07/May/2025:16:51:11 +0000] \"PATCH /course/7 HTTP/1.1\" 200 722 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T16:51:11.959Z"}
+{"level":"info","message":"::1 - - [07/May/2025:16:53:28 +0000] \"PATCH /course/7 HTTP/1.1\" 200 722 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T16:53:28.532Z"}
+{"level":"info","message":"::1 - - [07/May/2025:16:53:44 +0000] \"DELETE /course/7 HTTP/1.1\" 200 41 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T16:53:44.485Z"}
+{"level":"info","message":"::1 - - [07/May/2025:16:53:53 +0000] \"GET /course/allCourse HTTP/1.1\" 200 680 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T16:53:53.781Z"}
+{"level":"info","message":"::1 - - [07/May/2025:16:53:56 +0000] \"GET /course/allCourse HTTP/1.1\" 200 680 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T16:53:56.452Z"}
+{"level":"info","message":"::1 - - [07/May/2025:16:53:57 +0000] \"GET /course/allCourse HTTP/1.1\" 200 680 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T16:53:57.660Z"}
+{"level":"info","message":"::1 - - [07/May/2025:16:54:00 +0000] \"GET /course/allCourse HTTP/1.1\" 200 680 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T16:54:00.988Z"}
+{"level":"info","message":"Course created successfully","timestamp":"2025-05-07T16:54:10.061Z"}
+{"level":"info","message":"Notification created for 3 recipients - Type: system, Title: New Course Added","timestamp":"2025-05-07T16:54:10.070Z"}
+{"level":"error","message":"Error creating course: Schema hasn't been registered for model \"Courses\".\nUse mongoose.model(name, schema)","timestamp":"2025-05-07T16:54:10.072Z"}
+{"level":"info","message":"::1 - - [07/May/2025:16:54:10 +0000] \"POST /course/addCourse HTTP/1.1\" 400 114 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T16:54:10.074Z"}
+{"level":"info","message":"Course created successfully","timestamp":"2025-05-07T16:55:41.417Z"}
+{"level":"info","message":"Notification created for 3 recipients - Type: system, Title: New Course Added","timestamp":"2025-05-07T16:55:41.425Z"}
+{"level":"error","message":"Error creating course: Schema hasn't been registered for model \"Courses\".\nUse mongoose.model(name, schema)","timestamp":"2025-05-07T16:55:41.428Z"}
+{"level":"info","message":"::1 - - [07/May/2025:16:55:41 +0000] \"POST /course/addCourse HTTP/1.1\" 400 114 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T16:55:41.429Z"}
+{"level":"info","message":"Course created successfully","timestamp":"2025-05-07T17:00:01.014Z"}
+{"level":"info","message":"Notification created for 3 recipients - Type: system, Title: New Course Added","timestamp":"2025-05-07T17:00:01.021Z"}
+{"level":"error","message":"Error creating course: Schema hasn't been registered for model \"Courses\".\nUse mongoose.model(name, schema)","timestamp":"2025-05-07T17:00:01.023Z"}
+{"level":"info","message":"::1 - - [07/May/2025:17:00:01 +0000] \"POST /course/addCourse HTTP/1.1\" 400 114 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T17:00:01.025Z"}
+{"level":"info","message":"Course created successfully","timestamp":"2025-05-07T17:00:18.127Z"}
+{"level":"info","message":"Notification created for 3 recipients - Type: system, Title: New Course Added","timestamp":"2025-05-07T17:00:18.135Z"}
+{"level":"error","message":"Error creating course: Schema hasn't been registered for model \"Courses\".\nUse mongoose.model(name, schema)","timestamp":"2025-05-07T17:00:18.138Z"}
+{"level":"info","message":"::1 - - [07/May/2025:17:00:18 +0000] \"POST /course/addCourse HTTP/1.1\" 400 114 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T17:00:18.139Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T17:02:23.165Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T17:02:23.178Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T17:02:23.184Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T17:02:23.189Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T17:02:23.189Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T17:02:23.190Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T17:02:57.536Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T17:02:57.544Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T17:02:57.549Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T17:02:57.554Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T17:02:57.554Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T17:02:57.554Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T17:03:11.731Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T17:03:11.740Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T17:03:11.746Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T17:03:11.750Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T17:03:11.750Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T17:03:11.751Z"}
+{"level":"info","message":"Course created successfully","timestamp":"2025-05-07T17:04:39.894Z"}
+{"level":"error","message":"Error creating course: Validation failed: \"itemModel\" must be one of [Order, Courses, User, Review]","timestamp":"2025-05-07T17:04:39.905Z"}
+{"level":"info","message":"::1 - - [07/May/2025:17:04:39 +0000] \"POST /course/addCourse HTTP/1.1\" 400 106 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T17:04:39.911Z"}
+{"level":"info","message":"Course created successfully","timestamp":"2025-05-07T17:04:45.900Z"}
+{"level":"error","message":"Error creating course: Validation failed: \"itemModel\" must be one of [Order, Courses, User, Review]","timestamp":"2025-05-07T17:04:45.906Z"}
+{"level":"info","message":"::1 - - [07/May/2025:17:04:45 +0000] \"POST /course/addCourse HTTP/1.1\" 400 106 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T17:04:45.907Z"}
+{"level":"info","message":"Course created successfully","timestamp":"2025-05-07T17:06:13.468Z"}
+{"level":"error","message":"Error creating course: Validation failed: \"itemModel\" must be one of [Order, Courses, User, Review]","timestamp":"2025-05-07T17:06:13.475Z"}
+{"level":"info","message":"::1 - - [07/May/2025:17:06:13 +0000] \"POST /course/addCourse HTTP/1.1\" 400 106 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T17:06:13.477Z"}
+{"level":"info","message":"Course created successfully","timestamp":"2025-05-07T17:06:14.942Z"}
+{"level":"error","message":"Error creating course: Validation failed: \"itemModel\" must be one of [Order, Courses, User, Review]","timestamp":"2025-05-07T17:06:14.949Z"}
+{"level":"info","message":"::1 - - [07/May/2025:17:06:14 +0000] \"POST /course/addCourse HTTP/1.1\" 400 106 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T17:06:14.951Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T17:06:26.070Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T17:06:26.083Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T17:06:26.087Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T17:06:26.092Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T17:06:26.092Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T17:06:26.092Z"}
+{"level":"info","message":"Course created successfully","timestamp":"2025-05-07T17:06:29.230Z"}
+{"level":"error","message":"Error creating course: Validation failed: \"itemModel\" must be one of [Order, Courses, User, Review]","timestamp":"2025-05-07T17:06:29.239Z"}
+{"level":"info","message":"::1 - - [07/May/2025:17:06:29 +0000] \"POST /course/addCourse HTTP/1.1\" 400 106 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T17:06:29.245Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T17:07:33.100Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T17:07:33.115Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T17:07:33.121Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T17:07:33.126Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T17:07:33.126Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T17:07:33.127Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T17:07:36.087Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T17:07:36.096Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T17:07:36.102Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T17:07:36.107Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T17:07:36.107Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T17:07:36.107Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T17:07:43.163Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T17:07:43.178Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T17:07:43.187Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T17:07:43.193Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T17:07:43.193Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T17:07:43.194Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T17:07:56.934Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T17:07:56.947Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T17:07:56.952Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T17:07:56.956Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T17:07:56.956Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T17:07:56.956Z"}
+{"level":"info","message":"Course created successfully","timestamp":"2025-05-07T17:08:29.218Z"}
+{"level":"info","message":"Notification created for 3 recipients - Type: system, Title: New Course Added","timestamp":"2025-05-07T17:08:29.230Z"}
+{"level":"error","message":"Error creating course: Schema hasn't been registered for model \"Courses\".\nUse mongoose.model(name, schema)","timestamp":"2025-05-07T17:08:29.239Z"}
+{"level":"info","message":"::1 - - [07/May/2025:17:08:29 +0000] \"POST /course/addCourse HTTP/1.1\" 400 114 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T17:08:29.244Z"}
+{"level":"info","message":"Course created successfully","timestamp":"2025-05-07T17:11:27.030Z"}
+{"level":"info","message":"Notification created for 3 recipients - Type: system, Title: New Course Added","timestamp":"2025-05-07T17:11:27.038Z"}
+{"level":"error","message":"Error creating course: Schema hasn't been registered for model \"Courses\".\nUse mongoose.model(name, schema)","timestamp":"2025-05-07T17:11:27.043Z"}
+{"level":"info","message":"::1 - - [07/May/2025:17:11:27 +0000] \"POST /course/addCourse HTTP/1.1\" 400 114 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-07T17:11:27.044Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-07T17:11:33.091Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-07T17:11:33.103Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-07T17:11:33.108Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-07T17:11:33.112Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-07T17:11:33.112Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-07T17:11:33.113Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-08T10:18:15.686Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-08T10:18:15.691Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-08T10:18:15.693Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-08T10:18:15.710Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-08T10:18:15.711Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-08T10:18:15.711Z"}
+{"email":"admin1@example.com","level":"info","message":"Sign-in attempt","timestamp":"2025-05-08T10:19:44.267Z"}
+{"level":"info","message":"User signed in successfully: admin1@example.com","timestamp":"2025-05-08T10:19:44.367Z"}
+{"level":"info","message":"::1 - - [08/May/2025:10:19:44 +0000] \"POST /user/signin HTTP/1.1\" 202 255 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-08T10:19:44.371Z"}
+{"level":"info","message":"Course created successfully","timestamp":"2025-05-08T10:20:10.822Z"}
+{"level":"info","message":"Notification created for 3 recipients - Type: system, Title: New Course Added","timestamp":"2025-05-08T10:20:10.843Z"}
+{"level":"error","message":"Error creating course: Schema hasn't been registered for model \"Courses\".\nUse mongoose.model(name, schema)","timestamp":"2025-05-08T10:20:10.851Z"}
+{"level":"info","message":"::1 - - [08/May/2025:10:20:10 +0000] \"POST /course/addCourse HTTP/1.1\" 400 114 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-08T10:20:10.854Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-08T10:37:36.793Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-08T10:37:36.813Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-08T10:37:36.815Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-08T10:37:36.818Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-08T10:37:36.818Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-08T10:37:36.819Z"}
+{"level":"info","message":"Course created successfully","timestamp":"2025-05-08T10:37:44.153Z"}
+{"level":"info","message":"Notification created for 3 recipients - Type: system, Title: New Course Added","timestamp":"2025-05-08T10:37:44.164Z"}
+{"level":"error","message":"Error creating course: Schema hasn't been registered for model \"Courses\".\nUse mongoose.model(name, schema)","timestamp":"2025-05-08T10:37:44.171Z"}
+{"level":"info","message":"::1 - - [08/May/2025:10:37:44 +0000] \"POST /course/addCourse HTTP/1.1\" 400 114 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-08T10:37:44.176Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-08T10:38:07.212Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-08T10:38:07.234Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-08T10:38:07.235Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-08T10:38:07.238Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-08T10:38:07.238Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-08T10:38:07.238Z"}
+{"level":"info","message":"Course created successfully","timestamp":"2025-05-08T10:38:16.579Z"}
+{"level":"info","message":"Notification created for 3 recipients - Type: system, Title: New Course Added","timestamp":"2025-05-08T10:38:16.590Z"}
+{"level":"error","message":"Error creating course: Schema hasn't been registered for model \"Courses\".\nUse mongoose.model(name, schema)","timestamp":"2025-05-08T10:38:16.597Z"}
+{"level":"info","message":"::1 - - [08/May/2025:10:38:16 +0000] \"POST /course/addCourse HTTP/1.1\" 400 114 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-08T10:38:16.603Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-08T11:07:09.343Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-08T11:07:09.364Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-08T11:07:09.366Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-08T11:07:09.368Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-08T11:07:09.369Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-08T11:07:09.369Z"}
+{"level":"info","message":"Course created successfully","timestamp":"2025-05-08T11:07:13.594Z"}
+{"level":"error","message":"Error creating course: Validation failed: \"itemModel\" must be one of [Order, Courses, User, Review]","timestamp":"2025-05-08T11:07:13.603Z"}
+{"level":"info","message":"::1 - - [08/May/2025:11:07:13 +0000] \"POST /course/addCourse HTTP/1.1\" 400 106 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-08T11:07:13.609Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-08T11:07:49.012Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-08T11:07:49.038Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-08T11:07:49.040Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-08T11:07:49.043Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-08T11:07:49.044Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-08T11:07:49.044Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-08T11:07:54.719Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-08T11:07:54.740Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-08T11:07:54.742Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-08T11:07:54.746Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-08T11:07:54.746Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-08T11:07:54.746Z"}
+{"level":"info","message":"Course created successfully","timestamp":"2025-05-08T11:07:58.933Z"}
+{"level":"error","message":"Error creating course: Validation failed: \"itemModel\" must be one of [Order, Courses, User, Review]","timestamp":"2025-05-08T11:07:58.943Z"}
+{"level":"info","message":"::1 - - [08/May/2025:11:07:58 +0000] \"POST /course/addCourse HTTP/1.1\" 400 106 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-08T11:07:58.951Z"}
+{"level":"info","message":"Course created successfully","timestamp":"2025-05-08T11:08:03.430Z"}
+{"level":"error","message":"Error creating course: Validation failed: \"itemModel\" must be one of [Order, Courses, User, Review]","timestamp":"2025-05-08T11:08:03.439Z"}
+{"level":"info","message":"::1 - - [08/May/2025:11:08:03 +0000] \"POST /course/addCourse HTTP/1.1\" 400 106 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-08T11:08:03.442Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-08T11:09:26.984Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-08T11:09:26.997Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-08T11:09:27.003Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-08T11:09:27.010Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-08T11:09:27.010Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-08T11:09:27.011Z"}
+{"level":"info","message":"Course created successfully","timestamp":"2025-05-08T11:16:01.695Z"}
+{"level":"error","message":"Error creating course: Validation failed: \"itemModel\" must be one of [Order, Courses, User, Review]","timestamp":"2025-05-08T11:16:01.707Z"}
+{"level":"info","message":"::1 - - [08/May/2025:11:16:01 +0000] \"POST /course/addCourse HTTP/1.1\" 400 106 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-08T11:16:01.712Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-08T11:16:39.357Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-08T11:16:39.375Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-08T11:16:39.385Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-08T11:16:39.389Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-08T11:16:39.390Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-08T11:16:39.390Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-08T11:18:05.647Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-08T11:18:05.671Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-08T11:18:05.673Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-08T11:18:05.676Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-08T11:18:05.676Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-08T11:18:05.676Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-08T11:18:09.196Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-08T11:18:09.212Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-08T11:18:09.218Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-08T11:18:09.222Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-08T11:18:09.223Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-08T11:18:09.223Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-08T11:18:40.342Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-08T11:18:40.356Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-08T11:18:40.362Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-08T11:18:40.370Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-08T11:18:40.371Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-08T11:18:40.371Z"}
+{"level":"info","message":"Course created successfully","timestamp":"2025-05-08T11:18:47.771Z"}
+{"level":"error","message":"Error creating course: Notification validation failed: itemModel: `Course` is not a valid enum value for path `itemModel`.","timestamp":"2025-05-08T11:18:47.798Z"}
+{"level":"info","message":"::1 - - [08/May/2025:11:18:47 +0000] \"POST /course/addCourse HTTP/1.1\" 400 127 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-08T11:18:47.803Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-08T11:19:18.572Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-08T11:19:18.599Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-08T11:19:18.601Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-08T11:19:18.604Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-08T11:19:18.605Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-08T11:19:18.605Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-08T11:20:07.728Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-08T11:20:07.747Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-08T11:20:07.749Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-08T11:20:07.752Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-08T11:20:07.752Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-08T11:20:07.752Z"}
+{"level":"info","message":"Course created successfully","timestamp":"2025-05-08T11:20:11.395Z"}
+{"level":"info","message":"Notification created for 3 recipients - Type: system, Title: New Course Added","timestamp":"2025-05-08T11:20:11.407Z"}
+{"level":"info","message":"Notification sent to 3 users about new Course","timestamp":"2025-05-08T11:20:11.430Z"}
+{"level":"info","message":"::1 - - [08/May/2025:11:20:11 +0000] \"POST /course/addCourse HTTP/1.1\" 201 728 \"-\" \"PostmanRuntime/7.43.4\"","timestamp":"2025-05-08T11:20:11.435Z"}
+{"level":"info","message":"Admin admin1@example.com already exists","timestamp":"2025-05-08T11:22:24.355Z"}
+{"level":"info","message":"Admin admin2@example.com already exists","timestamp":"2025-05-08T11:22:24.368Z"}
+{"level":"info","message":"Admin admin3@example.com already exists","timestamp":"2025-05-08T11:22:24.373Z"}
+{"level":"info","message":"Cleaned up 0 old notifications","timestamp":"2025-05-08T11:22:24.380Z"}
+{"level":"info","message":"Scheduled cleanup: Removed 0 old notifications","timestamp":"2025-05-08T11:22:24.380Z"}
+{"level":"info","message":"Notification cleanup scheduled to run daily","timestamp":"2025-05-08T11:22:24.381Z"}

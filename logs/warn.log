@@ -1,0 +1,27 @@
+{"level":"warn","message":"Failed login attempt for email: admin1@example.com","timestamp":"2025-05-07T13:15:04.351Z"}
+{"level":"warn","message":"Failed login attempt for email: admin1@example.com","timestamp":"2025-05-07T13:17:11.066Z"}
+{"level":"warn","message":"Failed login attempt for email: admin1@example.com","timestamp":"2025-05-07T13:18:06.395Z"}
+{"level":"warn","message":"Failed login attempt for email: admin2@example.com","timestamp":"2025-05-07T13:18:45.919Z"}
+{"level":"error","message":"Error creating course: Courses validation failed: instructor: Cast to ObjectId failed for value \"5126516516516541651\" (type string) at path \"instructor\" because of \"BSONError\"","timestamp":"2025-05-07T14:16:50.393Z"}
+{"level":"error","message":"Error creating course: Validation failed: \"itemModel\" must be one of [Order, courses, User, Review]","timestamp":"2025-05-07T14:18:38.018Z"}
+{"level":"error","message":"Error creating course: Notification validation failed: itemModel: `courses` is not a valid enum value for path `itemModel`.","timestamp":"2025-05-07T14:20:20.824Z"}
+{"level":"error","message":"Error creating course: Notification validation failed: itemModel: `courses` is not a valid enum value for path `itemModel`.","timestamp":"2025-05-07T14:20:43.705Z"}
+{"level":"error","message":"Error creating course: Schema hasn't been registered for model \"Courses\".\nUse mongoose.model(name, schema)","timestamp":"2025-05-07T16:54:10.072Z"}
+{"level":"error","message":"Error creating course: Schema hasn't been registered for model \"Courses\".\nUse mongoose.model(name, schema)","timestamp":"2025-05-07T16:55:41.428Z"}
+{"level":"error","message":"Error creating course: Schema hasn't been registered for model \"Courses\".\nUse mongoose.model(name, schema)","timestamp":"2025-05-07T17:00:01.023Z"}
+{"level":"error","message":"Error creating course: Schema hasn't been registered for model \"Courses\".\nUse mongoose.model(name, schema)","timestamp":"2025-05-07T17:00:18.138Z"}
+{"level":"error","message":"Error creating course: Validation failed: \"itemModel\" must be one of [Order, Courses, User, Review]","timestamp":"2025-05-07T17:04:39.905Z"}
+{"level":"error","message":"Error creating course: Validation failed: \"itemModel\" must be one of [Order, Courses, User, Review]","timestamp":"2025-05-07T17:04:45.906Z"}
+{"level":"error","message":"Error creating course: Validation failed: \"itemModel\" must be one of [Order, Courses, User, Review]","timestamp":"2025-05-07T17:06:13.475Z"}
+{"level":"error","message":"Error creating course: Validation failed: \"itemModel\" must be one of [Order, Courses, User, Review]","timestamp":"2025-05-07T17:06:14.949Z"}
+{"level":"error","message":"Error creating course: Validation failed: \"itemModel\" must be one of [Order, Courses, User, Review]","timestamp":"2025-05-07T17:06:29.239Z"}
+{"level":"error","message":"Error creating course: Schema hasn't been registered for model \"Courses\".\nUse mongoose.model(name, schema)","timestamp":"2025-05-07T17:08:29.239Z"}
+{"level":"error","message":"Error creating course: Schema hasn't been registered for model \"Courses\".\nUse mongoose.model(name, schema)","timestamp":"2025-05-07T17:11:27.043Z"}
+{"level":"error","message":"Error creating course: Schema hasn't been registered for model \"Courses\".\nUse mongoose.model(name, schema)","timestamp":"2025-05-08T10:20:10.851Z"}
+{"level":"error","message":"Error creating course: Schema hasn't been registered for model \"Courses\".\nUse mongoose.model(name, schema)","timestamp":"2025-05-08T10:37:44.171Z"}
+{"level":"error","message":"Error creating course: Schema hasn't been registered for model \"Courses\".\nUse mongoose.model(name, schema)","timestamp":"2025-05-08T10:38:16.597Z"}
+{"level":"error","message":"Error creating course: Validation failed: \"itemModel\" must be one of [Order, Courses, User, Review]","timestamp":"2025-05-08T11:07:13.603Z"}
+{"level":"error","message":"Error creating course: Validation failed: \"itemModel\" must be one of [Order, Courses, User, Review]","timestamp":"2025-05-08T11:07:58.943Z"}
+{"level":"error","message":"Error creating course: Validation failed: \"itemModel\" must be one of [Order, Courses, User, Review]","timestamp":"2025-05-08T11:08:03.439Z"}
+{"level":"error","message":"Error creating course: Validation failed: \"itemModel\" must be one of [Order, Courses, User, Review]","timestamp":"2025-05-08T11:16:01.707Z"}
+{"level":"error","message":"Error creating course: Notification validation failed: itemModel: `Course` is not a valid enum value for path `itemModel`.","timestamp":"2025-05-08T11:18:47.798Z"}
