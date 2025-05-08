@@ -1,7 +1,9 @@
 import process from 'node:process';
-import {Server} from 'socket.io';
+import { Server } from 'socket.io';
 import connectDB from './DB/connection.js';
-import {globalErrorHandling} from './middlewares/ErrorHandling.js';
+import cors from 'cors'; // ✅ أضف هذا
+
+import { globalErrorHandling } from './middlewares/ErrorHandling.js';
 import courseRouter from './routes/course.routes.js';
 import careeerResourceRouter from './routes/careerResource.routes.js';
 import careeerResourceCategoriesRouter from './routes/careerResourceCategories.routes.js';
@@ -16,6 +18,14 @@ import userRouter from './routes/user.routes.js';
 let io;
 
 export const initApp = (app, express) => {
+  // ✅ تفعيل CORS في البداية
+  app.use(cors({
+    origin: process.env.FRONTEND_URL || 'http://localhost:8080',
+    credentials: true,
+    methods: ['GET', 'POST', 'PUT', 'DELETE']
+  }));
+
+
   // Convert Buffer Data
   app.use(express.json({}));
 
@@ -67,3 +77,5 @@ export const getIO = () => {
   if (!io) throw new Error('Socket.io not initialized!');
   return io;
 };
+
+
